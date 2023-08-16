@@ -10,6 +10,7 @@ Aplicação que propoem ao usuário um calculo de idade, que tem como resutado o
 
 
 📝 Composição do aplicação:
+
 A aplicação é composta por uma função com o parametro date e dentro dessa função temos variáveis que definem a idade do usuário, o dia de seu aniversário e o próximo 
 aniversário em dias. Logo depois colocamos essa função no console, chamando ela em seguida. Ao executarmos o arquivo que estamos trabalhando, teremos a resposta da aplicação. 
 
